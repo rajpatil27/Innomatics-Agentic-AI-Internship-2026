@@ -12,6 +12,7 @@ This repository contains my daily internship work as an **Agentic AI Intern** at
 ## 📂 Tasks Completed
 
 - ✅ Task 01 – Logic Building (Authentication, Data Cleaning, Basic Analysis)
+- ✅ Task 02 – Logic Building (Loops, Conditions, Number Programs, Pattern Logic)
 
 
 
