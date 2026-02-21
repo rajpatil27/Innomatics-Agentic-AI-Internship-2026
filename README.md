@@ -13,7 +13,9 @@ This repository contains my daily internship work as an **Agentic AI Intern** at
 
 - ✅ Task 01 – Logic Building (Authentication, Data Cleaning, Basic Analysis)
 - ✅ Task 02 – Logic Building (Loops, Conditions, Number Programs, Pattern Logic)
-
+- ✅ Task 03 – Data processing and analysis using lists, filtering, aggregation, and real-world scenarios
+- ✅ Task 04 – Function-driven mini systems using loops for real-world automation and validations
+- ✅ Task 05 – Advanced modular problem solving with reusable functions and integrated loop execution
 
 
 
